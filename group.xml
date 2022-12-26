@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+	<Employee id="1">
+		 <Name>Kundan</Name>
+		 <Company>Cognizant</Company>
+		 <Department>QEA</Department>
+		 <Salary>13806</Salary>
+	</Employee>
+	<Employee id="2">
+		<Name>Rohit</Name>
+		<Company>KK Technology</Company>
+		<Department>Developer</Department>
+		<Salary>25000</Salary>
+	</Employee>
+	<Employee id="3">
+		<Name>Kishore</Name>
+		<Company>Skaplink</Company>
+		<Department>Manager</Department>
+		<Salary>35000</Salary>
+	</Employee>
+</Employees>

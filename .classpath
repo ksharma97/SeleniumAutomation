@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-examples-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/poi-scratchpad-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/poi-bin-3.11-20141221/poi-3.11/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Priyanshu/Downloads/jar_files (1)/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
